@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+
+# Project specific
+iss_tracking.csv
+iss_maps/
+*.html
+!screenshots/*.png
+web_iss_map.html
+iss_temp_map.html
+iss_location_*.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
